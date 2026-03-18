@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>모바일 청첩장</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      background: #fffaf5;
+      padding: 30px;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 { color: #d63384; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>💍 Wedding Invitation</h1>
+    <p>저희 두 사람이 평생을 함께하기로 약속했습니다.</p>
+
+    <h2>신용선 ❤️ 박소라</h2>
+
+    <p>📅 2027년 1월 9일 토요일 오전 10시</p>
+    <p>📍 MJ컨벤션</p>
+
+    <p>부디 참석하시기보단 아래 계좌로 입금 부탁드려요.</p>
+    <p>국민 90514092860 신용선.</p>
+  </div>
+</body>
+</html>
